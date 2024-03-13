@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">TVBox</string>
-    <string name="app_home">首页</string>
-    <string name="app_source"></string>
+    <string name="app_name">🍞🐉⭐👀📺</string>
+    <string name="app_home">📺</string>
+    <string name="app_source">http://xhww.fun/小米/DEMO.json</string>
 
     // Home Page //
-    <string name="hm_ok">加载成功</string>
-    <string name="hm_notok">加载失败</string>
+    <string name="hm_ok">📽️加载成功</string>
+    <string name="hm_notok">📽️加载失败,请联系🍞9527</string>
     <string name="hm_retry">重试</string>
     <string name="hm_cancel">取消</string>
     <string name="hm_exit">再按一次返回键退出应用</string>
     <string name="hm_exit_live">再按一次返回键退出直播</string>
-    <string name="hm_date1">MM月dd日</string>
-    <string name="hm_date2">EE HH:mm</string>
+    <string name="hm_date1">yyyy年MM月dd日</string>
+    <string name="hm_date2"EE aa hh:mm</string>
     <string name="hm_hist">历史</string>
     <string name="hm_live">直播</string>
     <string name="hm_search">搜索</string>
